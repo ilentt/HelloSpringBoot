@@ -4,7 +4,7 @@ public class Employee {
 	private String no;
 	private String name;
 	private String position;
-	
+
 	public Employee() {
 	}
 
@@ -38,6 +38,5 @@ public class Employee {
 	public void setPosition(String position) {
 		this.position = position;
 	}
-	
-	
+
 }
